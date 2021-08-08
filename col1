@@ -1,0 +1,4 @@
+ip_addr1 = "192.158.10.10"
+ip_addr2 = "112.25.10.10"
+ip_addr2 = "10.10.10.10"
+print(ip_addr1,ip_addr2,ip_addr3)
